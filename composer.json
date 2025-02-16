@@ -1,0 +1,19 @@
+{
+    "name": "shoronovivan/otus_package",
+    "description": "Округление числа",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Shoronovivan\\OtusPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shoronov Ivan",
+            "email": "shoronov.ivan@mail.ru"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    }
+}

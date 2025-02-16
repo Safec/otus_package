@@ -1,0 +1,17 @@
+# Игнорируем папку с зависимостями Composer
+vendor/
+
+# Игнорируем кеши Composer
+composer.lock
+
+# Файлы IDE (PhpStorm, VSCode и другие)
+.idea/
+.vscode/
+
+# Логи и временные файлы
+*.log
+*.cache
+
+# Файлы операционных систем
+.DS_Store
+Thumbs.db
